@@ -1,0 +1,2 @@
+# asifo
+Full working commmand
